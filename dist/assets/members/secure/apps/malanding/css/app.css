@@ -1,0 +1,80 @@
+.page-title-container {
+  background: #E6EAED url("/assets/global/images/bc-subhead-bg.png") no-repeat center;
+  background-size: cover;
+  margin-bottom: 30px;
+}
+#ma-landing-page-container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+#ma-landing-page-container .main-header {
+  font-size: 48px;
+}
+#ma-landing-page-container .blue-color {
+  color: #169bd5;
+}
+#ma-landing-page-container sup {
+  top: 10px;
+  position: relative;
+  vertical-align: text-top;
+  font-size: 10px;
+}
+#ma-landing-page-container .header-2 {
+  margin-bottom: -10px;
+}
+#ma-landing-page-container .sub-header-1 {
+  font-size: 30px;
+}
+#ma-landing-page-container .sub-header-2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+#ma-landing-page-container .video-container {
+  background-color: #e8f1f4;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-bottom: 75px;
+  padding-top: 55px;
+}
+#ma-landing-page-container .video-main-container {
+  margin-top: 20px;
+}
+#ma-landing-page-container button {
+  border-width: 0px;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #0e92c7;
+  color: #fff;
+  margin-top: 30px;
+  font-size: 20px;
+}
+#ma-landing-page-container hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-top: 1px solid #e5e5e5;
+}
+#ma-landing-page-container img {
+  vertical-align: text-top;
+}
+.app-store-img {
+  margin-top: 30px;
+}
+.apple-play-img {
+  margin-left: 33px;
+}
+#ma-landing-page-container a {
+  text-decoration: none;
+}
+#ma-landing-page-container .main-footer {
+  font-size: 20px;
+}
+#ma-landing-page-container .margin-top-60 {
+  margin-top: 60px;
+}
+#ma-landing-page-container .margin-top-50 {
+  margin-top: 50px;
+}
+#ma-landing-page-container .margin-top-40 {
+  margin-top: 40px;
+}
